@@ -17,3 +17,4 @@ C:\Users\elvistanyi\source\repos\SeleniumParallelTest2\SeleniumParallelTest2\obj
 C:\Users\elvistanyi\source\repos\SeleniumParallelTest2\SeleniumParallelTest2\obj\Debug\SeleniumParallelTest2.csproj.CopyComplete
 C:\Users\elvistanyi\source\repos\SeleniumParallelTest2\SeleniumParallelTest2\obj\Debug\SeleniumParallelTest2.dll
 C:\Users\elvistanyi\source\repos\SeleniumParallelTest2\SeleniumParallelTest2\obj\Debug\SeleniumParallelTest2.pdb
+C:\Users\elvistanyi\source\repos\SeleniumParallelTest2\SeleniumParallelTest2\obj\Debug\SeleniumParallelTest2.csprojAssemblyReference.cache
